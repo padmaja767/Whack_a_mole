@@ -77,20 +77,6 @@ body {
   .container .btn:hover {
     background-color: black;
   }
-
-  /* Set background image
-body {
-    margin: 0;
-    padding: 0;
-    /* background-image: url('background-image.jpg'); Replace 'background-image.jpg' with the path to your image */
-    /* background-size: cover; */
-    /* background-position: center; */
-    /* background-attachment: fixed; This ensures that the background image doesn't scroll with the page */
-    /* height: 100vh; Ensure full viewport height */
-    /* position: relative; Positioning context for absolute positioning */
-    /* font-family: Arial, sans-serif; Optional: Use a different font */
-  /* } */
-   
   /* Centered container for the buttons */
   #home {
     margin: 0;
